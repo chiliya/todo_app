@@ -1,7 +1,7 @@
 <template>
   <div class="avatar" :class="{avatar__selected: !!selected }">
       <div class="avatar_face">
-          <img src="../assets/face.jpeg" alt="">
+          <img src="../assets/duoduopig.png" alt="">
       </div>
       <h2 class="avatar_name">HELLO， SEBS</h2>
       <p class="avatar_tips">
